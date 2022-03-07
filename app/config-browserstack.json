@@ -1,0 +1,11 @@
+{
+  "devices": [
+    "Google Pixel-7.1"
+  ],
+  "deviceLogs": true,
+  "networkLogs": true,
+  "project": "Espresso + ATF",
+  "shards": {
+    "numberOfShards": 1
+  }
+}
